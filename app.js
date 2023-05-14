@@ -14,6 +14,7 @@ const app = express();
 const allowedOrigins = [
   "http://localhost:3000",
   "https://marcos123.netlify.app",
+  "https://buddyfinder1.netlify.app"
 ];
 app.use(cors());
 
